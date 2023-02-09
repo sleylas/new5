@@ -1,4 +1,0 @@
-let introduction = 10;
-let git = 20;
-let js = 30;
-console.log(average)

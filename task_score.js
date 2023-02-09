@@ -6,4 +6,6 @@ console.log(average);
 
 let firstName = "Timur"
 let surName = "Aliyev"
-console.log(`Average mark for ${firstName} ${surName} ${average}`);
+let shortName = firstName.slice(0, 1);
+console.log(shortName);
+console.log(`Average mark for ${shortName}. ${surName} ${average}`);
